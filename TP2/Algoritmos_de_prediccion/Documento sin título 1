@@ -1,1 +1,4 @@
 KNN mejor score para k=1 (overfitting)
+KNN con weight uniforme y distintod p. Leve mejor acon p=3, pero igual k=1
+KNN sin idaviso ni idpostulante. Mucho peores resultados.
+
